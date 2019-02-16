@@ -1,5 +1,5 @@
-﻿这是一款是移动购买在线电影票WebApp(类似淘票票) 以vue2.0，Node(egg),技术栈开发而成，有些功能暂时目前没有以图片的形式展现很抱歉!  
- 由于录制gif是低帧所以会有一些突兀
+﻿这是一款是移动购买在线电影票WebApp(类似淘票票) 以vue2.0，Node(egg),技术栈开发而成  
+﻿由于录制gif是低帧可能会有一些突兀的画面,请见谅！目前页面仅仅展示客户端，客户端管理系统暂时没有时间去show,感兴趣自己下载来去看
  
   ![image](https://github.com/JunhoChan/ticketWebApp-FullStack/blob/master/metarial/index.gif?strip%7CimageView2/2/w/300)  
   主要界面  
